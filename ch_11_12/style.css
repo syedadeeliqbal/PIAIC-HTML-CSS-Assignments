@@ -1,0 +1,37 @@
+body{
+    padding: 30px 50px;
+}
+.heading {
+    font-family: 'Segoe UI','Courier New', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 950;
+  }
+.piaicfulform{
+    color: rgb(49, 49, 49);
+    text-transform: uppercase;
+    font-family: 'Segoe UI','Courier New', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: .2em;
+    font-size: 20px;
+    text-shadow:3px 3px 3px  grey;
+}
+.firstP{
+    line-height: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px 0px;
+    font-size: 1.3em;
+}
+.Headings{
+    font-family: 'Segoe UI','Courier New', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+}
+.Headings::first-letter{
+    font-size: 1.6em;
+    font-family: 'Segoe UI','Courier New', Tahoma, Geneva, Verdana, sans-serif;
+}
+.secondP{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
