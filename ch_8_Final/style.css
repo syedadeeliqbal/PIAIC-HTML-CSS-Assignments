@@ -1,0 +1,33 @@
+body {
+    width: 80%;
+    margin: auto;
+    font-family: 'Segoe UI','Courier New', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.header {
+    background-color: rgb(98, 130, 250);
+    border: 1px solid rgb(46, 59, 110);
+    border-radius: 9px;
+    padding: 18px;
+
+}
+
+.footer {
+    background-color: rgb(98, 130, 243);
+    border: 1px solid rgb(46, 59, 110);
+    border-radius: 9px;
+    text-align: center;
+    padding: 2px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding: 0 5px;
+}
+
+input {
+    margin: 5px 0;
+    width: 200px;
+}
